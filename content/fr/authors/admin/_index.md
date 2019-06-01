@@ -1,0 +1,93 @@
+---
+# Display name
+name: Hervé Gaucher
+
+# Username (this should match the folder name)
+authors:
+- admin
+
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position
+role: Professeur de yoga
+
+# Organizations/Affiliations
+organizations:
+- name: Institut Français de Yoga
+  url: ""
+
+# Short bio (displayed in user profile at end of posts)
+bio: Mes domaines de recherche sont les différentes voies du yoga et la méditation bouddhiste
+
+interests:
+- yoga
+- méditation laîque
+- méditation bouddhiste
+
+education:
+  courses:
+  - course: Professeur de yoga
+    institution: Institut Français de Yoga
+    year: 2019
+  - course: BTS Géologue
+    institution: ENSG Nancy
+    year: 1984
+
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#social:
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: "herve.gaucher@samyama.fr"
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+#user_groups:
+#- Researchers
+#- Visitors
+---
+J'ai rencontré le yoga et la méditation suite à un problème de santé en 2010. Le yoga et la méditation ont grandement participé à ma guérison et ont fait émergé une nouvelle façon de voir le monde.
+
+Mes premiers professeurs sont issus de l'[Institut Français de Yoga](http://www.ify.fr/) : Danielle Degrigny, Michelle Dupplessy, Estelle et Patrick Michallat, Nicole Hogopian.
+
+En 2011, la rencontre avec le Zen Soto au temple Gudo-Ji de l'association [Dogen Sangha](http://dogensangha.fr) fut intense et productive. Pendant 5 ans la pratique le méditation assise silencieuse est soutenue par l'étude des enseignements de [Maître Dogen](https://fr.wikipedia.org/wiki/D%C5%8Dgen) et des autres patriarches de cette tradition bouddhiste.
+
+En 2015, je redécouvre la méditation de [Pleine conscience](https://www.association-mindfulness.org/definition-mindfulness.php) en suivant le programme MBSR de 8 semaines au centre [MBSR Lyon](https://mbsrlyon.fr/) et décide d'approfondir la pratique du yoga.
+
+De 2016 à 2019, je suis la formation de professeur de yoga de 500h réparties sur 4 ans sous la direction de Béatrice Viard [Etude et pratique du yoga](http://epyoga.org/spip.php?page=cours-yoga-lyon&id_rubrique=8).
+
+En 2018 un voyage en Inde du sud de 4 semaines accompagné par [Jacques Vignes](http://www.jacquesvigne.com/) et Robert Dumel, me permet de mieux comprendre la tradition indienne. Nous séjournons plusieurs jours à l'école de yoga [KAIVALIADHAMA](https://kdham.com/) et à l'[ashram de Swami Ramdas](http://www.anandashram.org/).
+
+En parallèle je reçois les enseignements réguliers de :
+
+* Robert Dumel [A l'école de yoga](http://www.yogalyon.fr/index.html), un Hatha-Yoga traditionnel dans le contexte tantrique
+* Andi Guerrero [Yoga Iyengar Lyon](http://yoga-iyengar-lyon.blogspot.com/), [la méthode IYENGAR](https://www.afyi.fr/La-methode-IYENGAR-R.html)
+* [Jeannot Margier](http://www.jeannot-yoga.fr/biographie-jeannot-margier.html), un Hatha-Yoga enjoué par les chants de [mantra](https://fr.wikipedia.org/wiki/Mantra)
+* [Michel Alibert](http://www.ify.fr/devenir-enseignant/nos-formateurs/michel-alibert-2/) pour un approfondissement du [Yoga-sûtra de Patañjali](https://fr.wikipedia.org/wiki/Yoga-s%C3%BBtra)
+
+Mes professeurs ont induits en moi la volonté d'enseigner un yoga holistique que l'on pourrait arbitrairement classer en trois branches :
+
+- Un yoga "ajusté à chaque personne" de la tradition de [T.K.V. Desikachar](https://fr.wikipedia.org/wiki/T.K.V._Desikachar)  et de ses élèves de l'IFY
+- Un yoga "de l'effort juste" ([Hatha-Yoga](https://fr.wikipedia.org/wiki/Hatha_yoga])  inspiré des enseignements de [Krishnamacharya](https://fr.wikipedia.org/wiki/Tirumalai_Krishnamacharya), [B. K. S. Iyengar](https://fr.wikipedia.org/wiki/Bellur_Krishnamachar_Sundararaja_Iyengar]]==), Robert Dumel, Jeannot Margier)
+- Un yoga "méditatif" revisitant la Pleine présence à la lumière du [Yoga-sûtra de Patañjali](https://fr.wikipedia.org/wiki/Yoga-s%C3%BBtra)
+
