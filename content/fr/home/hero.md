@@ -46,17 +46,20 @@ title = "Samyama"
 # Note. An optional note to show underneath the links.
 # [cta_note]
 #   label = '<a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release <!-- V --></a>'
+
+#[deśabandhaḥ cittasya dhāraṇā]({{< ref "/home/demo.md" >}})-->
 +++
 
-**Découvrir la méditation à travers la voie du yoga**
+**Méditation la voie du yoga**
 
-1. deśabandhaḥ cittasya dhāraṇā
+<!-- link to dharana page ???-->
+deśabandhaḥ cittasya dhāraṇā
 
-2. tatra pratyaya eka-tānatā dhyānam
+tatra pratyaya eka-tānatā dhyānam
 
-3. tad eva artha-mātra-nirbhāsaṃ sva-rūpa-śūnyam iva samādhiḥ
+tad eva artha-mātra-nirbhāsaṃ sva-rūpa-śūnyam iva samādhiḥ
 
-4. trayamḥ ekatra saṃyamaḥ
+trayamḥ ekatra saṃyamaḥ
 
 <!-- TODO Liens vers pages expliquant les 4 sutra -->
 
