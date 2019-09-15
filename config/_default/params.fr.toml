@@ -50,8 +50,8 @@ time_format = "3:04"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "herve.gaucher@samyama.fr"
-phone = "+3360999212599"
+email = "contact@samyama.fr"
+#phone = "+3360999212599"
 address = ""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
