@@ -53,13 +53,13 @@ title = "Samyama"
 **Méditation la voie du yoga**
 
 <!-- link to dharana page ???-->
-deśabandhaḥ cittasya dhāraṇā
+*deśabandhaḥ cittasya dhāraṇā*
 
-tatra pratyaya eka-tānatā dhyānam
+*tatra pratyaya eka-tānatā dhyānam*
 
-tad eva artha-mātra-nirbhāsaṃ sva-rūpa-śūnyam iva samādhiḥ
+*tad eva artha-mātra-nirbhāsaṃ sva-rūpa-śūnyam iva samādhiḥ*
 
-trayamḥ ekatra saṃyamaḥ
+*trayamḥ ekatra saṃyamaḥ*
 
 <!-- TODO Liens vers pages expliquant les 4 sutra -->
 

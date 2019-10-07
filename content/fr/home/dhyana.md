@@ -2,9 +2,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 16  # Order that this section will appear.
 
-title = "dhāraṇā"
+title = "dhyāṇā"
 subtitle = ""
 
 [design]
@@ -21,11 +21,11 @@ subtitle = ""
   # color = "navy"
 
   # Background gradient.
-   gradient_start = "#ff8c00" #"DarkOrange"
-   gradient_end = "#b96500"
+   gradient_start = "#0073ff" #Pure blue
+   gradient_end = "#4d9dff"
 
   # Background image.
-  # image = "dharana.png"  # Name of image in `static/img/`.
+  # image = "dhyana.png"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -43,10 +43,10 @@ subtitle = ""
  css_class = ""
 +++
 
-_deśabandhaḥ cittasya dhāraṇā_
+*tatra pratyaya eka-tānatā dhyānam*
 
-La concentration est la capacité de l'esprit de se relier à un champ d'observation.
+Dhyânâ c'est approfondir l'attention donnée à ce champ.
 
-Dharana est la relation d'attention du mental à un secteur déterminé.
+C'est la méditation lorsqu'il y a résonnance prolongée là, uniquement dans ce contenu mental.
 
-{{< figure library="true" src="dharana.png" title="dharana" lightbox="true" >}}
+{{< figure library="true" src="dhyana.png" title="dhyana" lightbox="true" >}}

@@ -2,9 +2,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 17  # Order that this section will appear.
 
-title = "dhāraṇā"
+title = "samyama"
 subtitle = ""
 
 [design]
@@ -21,15 +21,15 @@ subtitle = ""
   # color = "navy"
 
   # Background gradient.
-   gradient_start = "#ff8c00" #"DarkOrange"
-   gradient_end = "#b96500"
+   gradient_start = "#00ff8c" #Pure cyan
+   gradient_end = "#33ffa3"
 
   # Background image.
-  # image = "dharana.png"  # Name of image in `static/img/`.
+  # image = "samadhi.png"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -43,10 +43,8 @@ subtitle = ""
  css_class = ""
 +++
 
-_deśabandhaḥ cittasya dhāraṇā_
+*trayamḥ ekatra saṃyamaḥ*
 
-La concentration est la capacité de l'esprit de se relier à un champ d'observation.
+L'accomplissement des trois (dhârana, dhyâna, samâdhi) est le samyma
 
-Dharana est la relation d'attention du mental à un secteur déterminé.
-
-{{< figure library="true" src="dharana.png" title="dharana" lightbox="true" >}}
+La méditation aboutie c'est conjuguer les trois
