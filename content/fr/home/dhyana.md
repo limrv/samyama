@@ -43,10 +43,9 @@ subtitle = ""
  css_class = ""
 +++
 
-*tatra pratyaya eka-tānatā dhyānam*
+Y.S. III.2 *tatra pratyaya eka-tānatā dhyānam*
 
-Dhyânâ c'est approfondir l'attention donnée à ce champ.
-
-C'est la méditation lorsqu'il y a résonnance prolongée là, uniquement dans ce contenu mental.
+* Dhyânâ c'est approfondir l'attention donnée à ce champ.
+* C'est la méditation lorsqu'il y a résonnance prolongée là, uniquement dans ce contenu mental.
 
 {{< figure library="true" src="dhyana.png" title="dhyana" lightbox="true" >}}

@@ -21,15 +21,15 @@ subtitle = ""
   # color = "navy"
 
   # Background gradient.
-   gradient_start = "#00ff8c" #Pure cyan
-   gradient_end = "#33ffa3"
+   gradient_start = "#0051b3" #Pure cyan
+   gradient_end = "#0074ff"
 
   # Background image.
   # image = "samadhi.png"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -43,8 +43,7 @@ subtitle = ""
  css_class = ""
 +++
 
-*trayamḥ ekatra saṃyamaḥ*
+Y.S. III.4 *trayamḥ ekatra saṃyamaḥ*
 
-L'accomplissement des trois (dhârana, dhyâna, samâdhi) est le samyma
-
-La méditation aboutie c'est conjuguer les trois
+* L'accomplissement des trois (dhârana, dhyâna, samâdhi) est le samyama
+* La méditation aboutie c'est conjuguer les trois

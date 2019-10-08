@@ -43,10 +43,9 @@ subtitle = ""
  css_class = ""
 +++
 
-*tad eva artha-mātra-nirbhāsaṃ sva-rūpa-śūnyam iva samādhiḥ*
+Y.S. III.3 *tad eva artha-mātra-nirbhāsaṃ sva-rūpa-śūnyam iva samādhiḥ*
 
-Quand la conscience est en relation avec cela même qui n'a pas de forme, c'est le samâdhi.
-
-Le samâdhi est cela précisément : l'objet seul resplendit est comme vidé de sa forme propre.
+* Quand la conscience est en relation avec cela même qui n'a pas de forme, c'est le samâdhi.
+* Le samâdhi est cela précisément : l'objet seul resplendit est comme vidé de sa forme propre.
 
 {{< figure library="true" src="samadhi.png" title="samadhi" lightbox="true" >}}

@@ -43,10 +43,9 @@ subtitle = ""
  css_class = ""
 +++
 
-_deśabandhaḥ cittasya dhāraṇā_
+Y.S. III.1 _deśabandhaḥ cittasya dhāraṇā_
 
-La concentration est la capacité de l'esprit de se relier à un champ d'observation.
-
-Dharana est la relation d'attention du mental à un secteur déterminé.
+* La concentration est la capacité de l'esprit de se relier à un champ d'observation.
+* Dharana est la relation d'attention du mental à un secteur déterminé.
 
 {{< figure library="true" src="dharana.png" title="dharana" lightbox="true" >}}
