@@ -2,7 +2,7 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Réalisations"
@@ -19,23 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
+  organization = "MBSR Lyon"
+  organization_url = "https://mbsrlyon.fr/"
+  title = "Le programme Mindfullness Based Stress Reduction"
+  url = "https://mbsrlyon.fr/formations/programme-mbsr/"
+  certificate_url = ""
+  date_start = "2015-03-01"
+  date_end = "2015-05-01"
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+  organization = "Institut Français du Yoga"
+  organization_url = "https://www.ify.fr/"
+  title = "Approfondissement du yoga et formation à son enseignement"
+  url = "https://www.ify.fr/categorie-stage/cycles-de-formation/"
+  certificate_url = ""
+  date_start = "2016-08-01"
+  date_end = "2019-06-01"
+  description = ""
+
 +++
