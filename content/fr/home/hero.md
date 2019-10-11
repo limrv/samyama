@@ -34,8 +34,8 @@ title = "Samyama"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-#  url = "https://sourcethemes.com/academic/docs/install/"
-#  label = "Get Started"
+  url = "project/yoga-sutra"
+  label = "Yoga-sûtra"
 #  icon_pack = "fas"
 #  icon = "download"
 
@@ -47,7 +47,6 @@ title = "Samyama"
 # [cta_note]
 #   label = '<a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release <!-- V --></a>'
 
-#[deśabandhaḥ cittasya dhāraṇā]({{< ref "/home/demo.md" >}})-->
 +++
 
 **Méditation, la voie du yoga**
@@ -57,8 +56,6 @@ title = "Samyama"
 * *tatra pratyaya eka-tānatā dhyānam*
 * *tad eva artha-mātra-nirbhāsaṃ sva-rūpa-śūnyam iva samādhiḥ*
 * *trayamḥ ekatra saṃyamaḥ*
-
-[Yoga-sûtra de Patañjali](https://fr.wikipedia.org/wiki/Yoga-s%C3%BBtra)
 
 <!-- TODO Liens vers pages expliquant les 4 sutra -->
 

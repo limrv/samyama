@@ -1,22 +1,23 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Yoga Sutra"
-summary: ""
+title: "Yoga-sûtra"
+summary: "Yoga-sûtra de Patanjali"
 authors: []
-tags: []
+tags:
+- Yoga-sûtra
 categories: []
 date: 2019-10-10T12:06:19+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://fr.wikipedia.org/wiki/Yoga-sûtra"
+# external_link: "https://fr.wikipedia.org/wiki/Yoga-sûtra"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Patanjali"
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
@@ -39,3 +40,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+<!-- Comment lier les pages de chaque sutra dharana.md, ... ? -->
+
+[Yoga-sûtra de Patañjali](https://fr.wikipedia.org/wiki/Yoga-s%C3%BBtra)
