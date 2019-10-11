@@ -6,6 +6,7 @@ weight = 17  # Order that this section will appear.
 
 title = "samyama"
 subtitle = ""
+tags = ["Yoga-sûtra"]
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

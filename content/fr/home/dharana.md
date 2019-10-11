@@ -6,6 +6,7 @@ weight = 15  # Order that this section will appear.
 
 title = "dhāraṇā"
 subtitle = ""
+tags = ["Yoga-sûtra"]
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
