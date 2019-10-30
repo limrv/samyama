@@ -68,9 +68,9 @@ sur la psyché humaine.
 > tadā draṣṭuḥ svarūpe avasthānamḥ </br>
 > vṛttisārūpyamḥ itaratra
 
-* _Le yoga est le contrôle des fluctuations du mental_
-* _Alors, celui qui perçoit est établi dans sa vraie nature_
-* _Autrement, il y a identification à ces fluctuations_
+* Le yoga est le contrôle des fluctuations du mental
+* Alors, celui qui perçoit est établi dans sa vraie nature
+* Autrement, il y a identification à ces fluctuations
 
 {{< speaker_note >}}
 * 1.1 Nous commençons maintenant la présentation du yoga dans la continuité de
@@ -109,8 +109,8 @@ sa tradition originale.
 > vṛttayaḥ pañcatayyaḥ kliṣṭā akliṣṭāḥ </br>
 > pramāṇa viparyaya vikalpa nidrā smṛtayaḥ
 
-* _Les activités du mental sont de cinq sortes, cause de souffrance ou non cause de souffrance_
-* _[Ce sont] la connaissance juste, l'erreur, l'imagination, le sommeil, la mémoire_
+* Les activités du mental sont de cinq sortes, cause de souffrance ou non cause de souffrance
+* [Ce sont] la connaissance juste, l'erreur, l'imagination, le sommeil, la mémoire
 
 {{< speaker_note >}}
 * Les pouvoirs du mental humain sont divinisés par notre société occidentale.
@@ -127,11 +127,12 @@ la tâche pour trouver des solutions !
 
 ---
 
-## Les obstacles à la réalisation de notre vrai nature
+### Les obstacles à la réalisation de notre vraie nature
 
 > avidya asmitā rāga dveṣa abhiniveśāḥ kleśāḥ
 
-_Les sources de souffrances sont l'ignorance, l'égo, l'avidité, l'aversion et l'angoisse_
+* Les sources de souffrances sont l'ignorance, l'égo,
+l'avidité, l'aversion et l'angoisse
 
 {{< speaker_note >}}
 * 2.4 L'ignorance est le champ d'action des autres afflictions, celles-ci apparaissent
@@ -160,8 +161,8 @@ le pur et l'impur; le bonheur et le malheur.
 > te pratiprasavaheyāḥ sūkśmāḥ </br>
 > dhyānaheyāh tadvṛttayaḥ
 
-* _Lorsqu'elles sont subtiles, celles-ci doivent être renvoyées à leur source_
-* _Actives, elles doivent être éliminées par la réflexion méditative_
+* Lorsqu'elles sont subtiles, celles-ci doivent être renvoyées à leur source
+* Actives, elles doivent être éliminées par la réflexion méditative
 
 {{< speaker_note >}}
 * 2.10 Les afflictions les plus fines disparaissent lorsqu'on agit sur elles de
@@ -181,7 +182,7 @@ précipitamment... - tout ces moyens font partie des méditation d'apaisement
 
 {{< slide background-image="/img/Krishnamacharya_padma-696x1024.jpg" background-size="700px">}}
 
-## _dhyāna_ la méditation
+## _dhyāna_ : c'est la méditation
 
 {{< speaker_note >}}
 Méditation :
@@ -204,9 +205,9 @@ simplement méditation ou contemplation.
 
 > yogāṅgānuṣṭhānāt aśuddhikśaye jñānadīptih āvivekakhyāteḥ
 
-_Par la pratique des membres du yoga de Patanjali, les impuretés sont
+* Par la pratique des membres du yoga de Patanjali, les impuretés sont
 éliminées à l'aide de la méditation. La connaissance brille jusqu'à
-l'expérimentation d'une clarté complète_
+l'expérimentation d'une clarté complète
 
 ---
 
@@ -217,8 +218,8 @@ l'expérimentation d'une clarté complète_
 > yama niyama āsana prāṇāyāma pratyāhāra dhāraṇā dhyāna
 samādhayah aṣṭāu aṅgāni
 
-* _Yama, Niyama, Asana, Pranayama, Pratyahara, Dharana, Dhyana, Samadhi
-sont les huit membres du yoga_
+* Yama, Niyama, Asana, Pranayama, Pratyahara, Dharana, Dhyana, Samadhi
+sont les huit membres du yoga
 
 {{< speaker_note >}}
 Les huit membres du yoga sont les disciplines relationnelles, personnelles,
@@ -252,9 +253,9 @@ que le yogin adopte pour lui-même.
 > prayatna śaithilya anantasamāpattibhyām </br>
 > tato dvandvānabhighātaḥ
 
-* _La posture est ferme et aisée_
-* _Par le juste effort et le relâchement, la posture mène à la méditation sur l'immuable_
-* _Ainsi, les sensations opposées cessent de nous tourmenter_
+* La posture est ferme et aisée
+* Par le juste effort et le relâchement, la posture mène à la méditation sur l'immuable
+* Ainsi, les sensations opposées cessent de nous tourmenter
 
 {{< speaker_note >}}
 2.46 La posture de yoga, doit à la fois être ferme et aisée.
@@ -264,24 +265,181 @@ que le yogin adopte pour lui-même.
 
 ---
 
-{{< slide background-image="/img/nadishodana.jpg" background-size="1200px" >}}
+{{< slide background-image="/img/pranayama-dessin.jpg" background-size="600px" >}}
 
 ## prāṇāyāma
 
 > tasmin sati śvāsapraśvāsayoḥ gativicchedaḥ prāṇāyāmaḥ </br>
+
+* Quand cela [asana] est établi, la régulation du flot désordonné de
+l'inspir et de l'expir est le pranayama.
+
+---
+
+{{< slide background-image="/img/nadishodana.jpg" background-size="1200px" >}}
+
+## prāṇāyāma
+
 > bāhyābhyantara stambhavṛttiḥ deśa kāla saṃkhyābhiḥ paridṛṣṭo </br>
+
+* [le pranayama] est une respiration longue et subtile, qui prend en compte
+les phases d'inspir et d'expir et de suspension, quand au lieu, à la durée et
+au nombre.
+
+---
+
+{{< slide background-image="/img/pranayama-nadishodana.jpg" background-size="1200px" >}}
+
+## prāṇāyāma
+
 > bāhya ābhyantara viṣayākśepī caturthaḥ </br>
 > tataḥ kśīyate prakāśāvaraṇam </br>
 
+* Le quatrième type est hors du domaine des objets externes ou internes
+* Alors ce qui recouvre la lumière est éliminé
+
+---
+
+{{< slide background-image="/img/savasana-pied.jpg" background-size="1200px" >}}
+
+## pratyāhāra
+
+> svaviṣayāsaṃprayoge cittasya svarūpānukāra iva indriyāṇāṃ pratyāhāraḥ
+> tataḥ paramā vaśyatendriyāṇām
+
+* Pratyahara, la maîtrise des sens, restaure le mental à son degré de pureté original
+* S'ensuit une maîtrise sensorielle parfaite
+
 {{< speaker_note >}}
-2.49 La posture maîtrisée sert de base à l'expérimentation du pranayama –
-le contrôle conscient de la respiration.
-2.50 L'expiration, l'inspiration, la suspension du souffle, le lieu,
-la longueur, la durée et le nombre de respirations
-sont des caractéristiques contrôlables de la pratique respiratoire.
-Quand le souffle devient long et subtil, le mental automatiquement s'apaise.
-2.51 Il existe un quatrième état respiratoire qui transcende les phases
-d'expiration, d'inspiration et les rétentions.
-2.52 Dans cet état, le nuage qui obscurcit la lumière se dissout
-2.53 ...et le mental devient apte à la concentration.
-{{< /speaker_note >}}
+Le pranayama favorise l'intériorisation. les organes sensoriels cessent de se
+gaver de toutes sortes de nourritures.
+Ils se rétractractent (pratyahara) vers le mental et le pratiquant n'est plus
+projeté de manière désordonnée ou compulsive dans toutes les directions.
+Alors, suivant la direction imprimée par l'attention, les sens se coulent dans
+la même énergie que celle du mental, le suivent et le servent fidèlement.
+L'expérience permet au yogin de percevoir l'intérieur et l'extérieur de soi,
+jusqu'au-delà du visible, au-dela de l'audible, et ainsi avec chaque organe
+sensoriel.
+Lorsque la maîtrise s'installe, la puissance du mental est telle que plus aucun
+domaine d'attention ne lui échappe ; il peut tout saisir.
+{{</ speaker_note >}}
+
+---
+
+{{< slide background-image="/img/prana-yoga2.jpg" background-size="800px" >}}
+
+## dhāraṇā
+
+> deśabandhaḥ cittasya dhāraṇā
+
+* La concentration est la capacité pour le citta de se limiter à un champ
+
+{{< speaker_note >}}
+Il existe de nombreuses définitions de la concentration ; celles du yoga
+sous-entend que :
+* la direction ou l'objet de concentration est délibérément choisi par le pratiquant ;
+* il y fixe toute son attention et l'y maintient pendant un certain temps ;
+* durant ce temps, les autres attractions constituent des distractions et sont
+systématiquement écartées ;
+* l'objet peut être de nature grossière ou subtile, simple ou complexe, matériel
+ou spirituel. Le chapitre III donnera de nombreux exemples.
+La condition de concentration est nécessaire pour atteindre l'étape suivante.
+{{</ speaker_note >}}
+
+---
+
+{{< slide background-image="/img/photo-chakras.jpg" background-size="800px" >}}
+
+## dhyāna
+
+> tatra pratyaya-eka-tānatā dhyānam
+
+* La méditation est la résonance prolongée là, uniquement dans le contenu mental
+
+{{< speaker_note >}}
+Lorsque la concentration se prolonge et s'approfondit, l pratiquant et son objet
+d'attention se rapprochent. Une véritable communication s'établit dans la
+continuité (tana) de relation exclusive (eka) à cet objet. C'est une expérience
+intérieure dans un contenu mental (pratyaya) unique.
+{{</ speaker_note >}}
+
+---
+
+{{< slide background-image="/img/meditation-samadhi.jpg" background-size="1600px">}}
+
+## samādhi
+
+> tad-eva-artha-mātra-nirbhāsaṃ svarūpa-śūnyam-iva samādhiḥ
+
+* L'absorbtion complète est cela précisément :
+l'objet seul respendit [dans le mental, qui est]
+comme vidé de son identité propre
+
+{{< speaker_note >}}
+L'abandon dans l'objet grandissent au point que l'identité personnelle est
+momentanément perdue. Paradoxalement, ce vide (śūnya) des pensées et
+fonctionnements habituels du mental permet l'acceuil d'une plénitude grâce à la
+présence de l'objet (artha) qui, seul (mātra), illumine complètement (nirbhāsa)
+l'expérience intérieure.
+{{</ speaker_note >}}
+
+---
+
+{{< slide background-image="/img/goutte-deau.jpg" background-size="1000px">}}
+
+## saṃyama
+
+> trayamḥ ekatra saṃyamaḥ </br>
+> tat-jayāt-prajñā-ālokaḥ </br>
+> tasya bhūmiṣu viniyogaḥ
+
+* La triade en un seul constitue la fusion totale
+* Une sagesse rayonnante et infinie résulte de cette conquête
+* L'application de cela respecte les niveaux
+
+{{< speaker_note >}}
+Les trois premiers aphorismes prcécisent les notions de concentration (dhāraṇā),
+méditation (dhyana), absorbsion complète (samadhi).
+La coordination des trois s'appèle le samyama, littéralement le réfrénement
+complet ou cantonnement parfait. Il s'agit d'une expérience d'ouverture totale
+et exclusive sur l'objet de méditation.
+Le samyama est une enquête profonde, répétée pendant longtemps, maîtrisée et
+systématiquement appliquée au même objet.
+C'est donc une spécialisation et c'est en cela que cela diffère du samadhi,
+qui peut se faire une fois sur ceci, une fois sur cela, etc.
+La formule prajñā-ālokaḥ, témoigne de l'application pratique des savoirs
+essentiels dans la vie quotidienne.
+{{</ speaker_note >}}
+
+---
+
+{{< slide background-image="/img/krishnamacharya-TKV-Desikachar.jpg" background-size="800px">}}
+
+## viniyogaḥ
+
+> tasya bhūmiṣu viniyogaḥ
+
+* L'application de cela respecte les niveaux
+
+{{< speaker_note >}}
+Il convient de choisir l'objet de méditation (samyama) en fonction de ces
+possibilités, des intérets et du bien être de chacun.
+Une progression stable se fait par étapes bien ajustées, quel que soit
+le domaine ou la démarche.
+Celui qui choisit un niveau trop facile perd son temps.
+Celui qui choisit un niveau trop élévé court à l'échec et prend parfois des
+risques importants (santé physique, équilibre émotionnel, etc).
+{{</ speaker_note >}}
+
+---
+
+## Conclusion
+
+![yoga mediation](/img/yoga-meditation.jpg)
+
+{{< speaker_note >}}
+Alors qu'attendons nous pour méditer ? Qu'attendons nous pour limiter les
+causes de nos souffrances ? Qu'attendons nous pour révéler notre vraie nature ?
+{{</ speaker_note >}}
+
+
