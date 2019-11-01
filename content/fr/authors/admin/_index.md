@@ -18,12 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mes domaines de recherche sont les différentes voies du yoga et la méditation bouddhiste
+bio: Mes domaines de recherche sont les différentes voies du yoga et la méditation
 
 interests:
 - yoga
 - méditation laîque
-- méditation bouddhiste
 
 education:
   courses:
