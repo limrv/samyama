@@ -26,7 +26,7 @@ menu:
 > objet précis : un paysage ou un visage, une conversation ou une lecture,
 > une pensée ou un souvenir.
 > Lorsque l'attention fonctionne bien elle permet ce que l'on
-> nomme la concentration c'est à dir l'effort à accomplir pour amener et
+> nomme la concentration c'est à dire l'effort à accomplir pour amener et
 > surtout maintenir son attention sur un objet librement choisi.
 > -- <cite> Christophe André - Le temps de méditer</cite>
 
