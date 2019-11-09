@@ -49,7 +49,7 @@ title = "Samyama"
 
 +++
 
-**Méditation, la voie du yoga**
+**Méditer la voie du yoga**
 
 <!-- link to dharana page ???-->
 * *deśabandhaḥ cittasya dhāraṇā*
