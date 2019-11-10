@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position in the list.
 linktitle: Attention
-summary: L'attention
+summary: L'attention focalisée et l'attention ouverte
 weight: 1
 
 # Page metadata.
