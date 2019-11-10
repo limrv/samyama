@@ -48,3 +48,16 @@ Et _ca_ le mental _manas_ gagne l'aptitude _yogyatā_ aux concentrations _dhāra
 L'attention facalisée _dharana_ est la fixation _bandha_ du mental _citta_
 à un champ d'observation déterminé _deśa_
 
+## Deux exercices de méditation
+> Si le fonctionnement de l'attention est complexe, les exercices destinés
+> à l'améliorer sont nombreux et variés. Mais pour simplifier, il en existe 2 :
+>
+> * les exercices portant sur la focalisation de l'attention (dans lesquels on
+> choisit une cible, comme la respiration et où on considère que tout le reste
+> est distraction)
+> * et ceux portant sur l'ouverture de l'attention (dans lesquels on considère
+> que rien n'est distraction et durant lesquels on choisit de prêter une
+> attention stable à tout ce qui survient)
+> -- <cite> Christophe André - Le temps de méditer</cite>
+
+
