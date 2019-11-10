@@ -65,28 +65,63 @@ email: "herve.gaucher@samyama.fr"
 #- Researchers
 #- Visitors
 ---
-J'ai rencontré le yoga et la méditation suite à un problème de santé en 2010. Le yoga et la méditation ont grandement participé à ma guérison et ont fait émergé une nouvelle façon de voir le monde.
+J'ai rencontré le yoga et la méditation en 2011. Ces pratiques minucieuses et
+profondes m'ont permis de reconnaitre les interactions du corps et de l'esprit
+et ont fait émergé un nouveau sens à la vie.
 
-Mes premiers professeurs sont issus de l'[Institut Français de Yoga](http://www.ify.fr/) : Danielle Degrigny, Michelle Dupplessy, Estelle et Patrick Michallat, Nicole Hogopian.
+Mes premiers professeurs de yoga sont issus de
+l'[Institut Français de Yoga](http://www.ify.fr/) :
+Danielle Degrigny, Michelle Dupplessy, Estelle et Patrick Michallat, Nicole Hogopian.
 
-En 2011, la rencontre avec le Zen Soto au temple Gudo-Ji de l'association [Dogen Sangha](http://dogensangha.fr) fut intense et productive. Pendant 5 ans la pratique le méditation assise silencieuse est soutenue par l'étude des enseignements de [Maître Dogen](https://fr.wikipedia.org/wiki/D%C5%8Dgen) et des autres patriarches de cette tradition bouddhiste.
+Fin 2011, la rencontre avec le Zen Soto au temple Gudo-Ji de l'association
+[Dogen Sangha](http://dogensangha.fr) fut intense et productive.
+Pendant 5 ans la pratique de la méditation assise silencieuse devant le mur
+blanc boulverse mes conceptions. L'étude des enseignements de
+[Maître Dogen](https://fr.wikipedia.org/wiki/D%C5%8Dgen) et des
+autres patriarches me laisse entrevoir la voie de Bouddha.
 
-En 2015, je redécouvre la méditation de [Pleine conscience](https://www.association-mindfulness.org/definition-mindfulness.php) en suivant le programme MBSR de 8 semaines au centre [MBSR Lyon](https://mbsrlyon.fr/) et décide d'approfondir la pratique du yoga.
+En 2015, je redécouvre la méditation de
+[Pleine conscience](https://www.association-mindfulness.org/definition-mindfulness.php)
+en suivant le programme laîque MBSR de 8 semaines au centre
+[MBSR Lyon](https://mbsrlyon.fr/) et décide d'approfondir la pratique du yoga
+vers un processus de transmission.
 
-De 2016 à 2019, je suis la formation de professeur de yoga de 500h réparties sur 4 ans sous la direction de Béatrice Viard [Etude et pratique du yoga](http://epyoga.org/spip.php?page=cours-yoga-lyon&id_rubrique=8).
-
-En 2018 un voyage en Inde du sud de 4 semaines accompagné par [Jacques Vignes](http://www.jacquesvigne.com/) et Robert Dumel, me permet de mieux comprendre la tradition indienne. Nous séjournons plusieurs jours à l'école de yoga [KAIVALIADHAMA](https://kdham.com/) et à l'[ashram de Swami Ramdas](http://www.anandashram.org/).
+De 2016 à 2019, je suis la formation de professeur de yoga proposé par l'IFY.
+Ce cursus de 500h répartie sur 4 ans est dirigé par Béatrice Viard
+[Etude et pratique du yoga](http://epyoga.org/spip.php?page=cours-yoga-lyon&id_rubrique=8).
 
 En parallèle je reçois les enseignements réguliers de :
 
-* Robert Dumel [A l'école de yoga](http://www.yogalyon.fr/index.html), un Hatha-Yoga traditionnel dans le contexte tantrique
-* Andi Guerrero [Yoga Iyengar Lyon](http://yoga-iyengar-lyon.blogspot.com/), [la méthode IYENGAR](https://www.afyi.fr/La-methode-IYENGAR-R.html)
-* [Jeannot Margier](http://www.jeannot-yoga.fr/biographie-jeannot-margier.html), un Hatha-Yoga enjoué par les chants de [mantra](https://fr.wikipedia.org/wiki/Mantra)
-* [Michel Alibert](http://www.ify.fr/devenir-enseignant/nos-formateurs/michel-alibert-2/) pour un approfondissement du [Yoga-sûtra de Patañjali](https://fr.wikipedia.org/wiki/Yoga-s%C3%BBtra)
+* Robert Dumel [A l'école de yoga](http://www.yogalyon.fr/index.html) qui
+prodigue un Hatha-Yoga traditionnel dans le contexte tantrique
+* Andi Guerrero [Yoga Iyengar Lyon](http://yoga-iyengar-lyon.blogspot.com/) qui
+reproduit srupuleusement
+[la méthode IYENGAR](https://www.afyi.fr/La-methode-IYENGAR-R.html)
+* [Jeannot Margier](http://www.jeannot-yoga.fr/biographie-jeannot-margier.html)
+qui mèle Hatha-Yoga et [mantra](https://fr.wikipedia.org/wiki/Mantra) enjoués
+* [Michel Alibert](http://www.ify.fr/devenir-enseignant/nos-formateurs/michel-alibert-2/)
+qui réactualise l'enseignement millénaire du
+[Yoga-sûtra de Patañjali](https://fr.wikipedia.org/wiki/Yoga-s%C3%BBtra)
 
-Mes professeurs ont induits en moi la volonté d'enseigner un yoga holistique que l'on pourrait arbitrairement classer en trois branches :
+En 2018 un voyage en Inde du sud de 4 semaines encadré par
+[Jacques Vignes](http://www.jacquesvigne.com/) et Robert Dumel,
+me permet de mieux comprendre la tradition indienne. Nous séjournons plusieurs jours
+à l'école de yoga [KAIVALIADHAMA](https://kdham.com/) et à
+l'[ashram de Swami Ramdas](http://www.anandashram.org/).
 
-- Un yoga "ajusté à chaque personne" de la tradition de [T.K.V. Desikachar](https://fr.wikipedia.org/wiki/T.K.V._Desikachar)  et de ses élèves de l'IFY
-- Un yoga "de l'effort juste" ([Hatha-Yoga](https://fr.wikipedia.org/wiki/Hatha_yoga])  inspiré des enseignements de [Krishnamacharya](https://fr.wikipedia.org/wiki/Tirumalai_Krishnamacharya), [B. K. S. Iyengar](https://fr.wikipedia.org/wiki/Bellur_Krishnamachar_Sundararaja_Iyengar]]==), Robert Dumel, Jeannot Margier)
-- Un yoga "méditatif" revisitant la Pleine présence à la lumière du [Yoga-sûtra de Patañjali](https://fr.wikipedia.org/wiki/Yoga-s%C3%BBtra)
+Mes professeurs ont induits en moi la volonté d'enseigner un yoga holistique
+que l'on pourrait arbitrairement classer en trois branches :
 
+- Un yoga "ajusté à chaque personne" de la tradition de
+ [T.K.V. Desikachar](https://fr.wikipedia.org/wiki/T.K.V._Desikachar)
+et de ses élèves de l'IFY
+- Un yoga "de l'effort juste"
+([Hatha-Yoga](https://fr.wikipedia.org/wiki/Hatha_yoga]) inspiré des
+enseignements de
+[Krishnamacharya](https://fr.wikipedia.org/wiki/Tirumalai_Krishnamacharya),
+[B. K. S. Iyengar](https://fr.wikipedia.org/wiki/Bellur_Krishnamachar_Sundararaja_Iyengar]]==),
+ Robert Dumel, Jeannot Margier)
+- Un yoga "méditatif" revisitant la Pleine présence à la lumière du
+[Yoga-sûtra de Patañjali](https://fr.wikipedia.org/wiki/Yoga-s%C3%BBtra)
+
+En 2019, je commence à enseigner le yoga dans l'aglomération lyonnaise.
