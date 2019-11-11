@@ -21,9 +21,9 @@ menu:
     weight: 1
 ---
 Un [mantra](https://fr.wikipedia.org/wiki/Mantra)
-(« délibération, maxime ; hymne sacré, formule mystique, incantation
-magique ») est, dans l'hindouisme, le bouddhisme, le sikhisme et
-le jaïnisme, une formule condensée, formée d'une seule syllabe ou d'une
-série de syllabes, répétée sans cesse avec un certain rythme, dans un
-exercice de méditation ou à des fins religieuses.
+(« délibération, maxime ; hymne sacré, formule mystique ») est,
+dans l'hindouisme, le bouddhisme, le sikhisme et le jaïnisme,
+une formule condensée, formée d'une seule syllabe ou d'une série de syllabes,
+répétée sans cesse avec un certain rythme, dans un exercice de méditation ou
+à des fins religieuses.
 

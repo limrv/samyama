@@ -1,5 +1,5 @@
 ---
-title: Sahana
+title: saha nā vavatu
 linktitle: saha nā vavatu
 toc: true
 type: docs
@@ -13,6 +13,8 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
+## Chant principal
+
 > _oṃ </br>
 > saha nā vavatu </br>
 > saha nau bhunaktu  </br>
@@ -30,6 +32,8 @@ weight: 1
 
 [Om Sahana Vavatu | Shanti Mantra](https://www.youtube.com/watch?v=K3N0A9nDn-I)
 
+## Chant secondaire
+
 > _brahmavidāpnōti param </br>
 > tadēṣā bhyuktā </br>
 > satyaṅ jñānamantaṅ brahma </br>
@@ -42,9 +46,11 @@ weight: 1
 * Celui qui sait qu'il est caché dans la grotte du coeur
 * il réalise tous ses désirs
 
-## Extrait de la taittiriya upanisad
+## Origine
 
-Taittirīya Upaniṣad (Upanishad de la Taittirīya Saṃhitā) est
+_saha nā vavatu_ est extrait de la Taittirīya Upaniṣad.
+
+La Taittirīya Upaniṣad (Upanishad de la Taittirīya Saṃhitā) est
 l'une des plus anciennes Upaniṣad majeures (composée entre -600 et -500)
 [Taittiriya Upanishad](https://fr.wikipedia.org/wiki/Taittiriya_Upanishad)
 
