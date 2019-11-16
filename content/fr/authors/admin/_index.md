@@ -90,6 +90,12 @@ De 2016 à 2019, je suis la formation de professeur de yoga proposé par l'IFY.
 Ce cursus de 500h répartie sur 4 ans est dirigé par Béatrice Viard
 [Etude et pratique du yoga](http://epyoga.org/spip.php?page=cours-yoga-lyon&id_rubrique=8).
 
+En 2018 un voyage en Inde du sud de 4 semaines encadré par
+[Jacques Vignes](http://www.jacquesvigne.com/) et Robert Dumel,
+me permet de mieux comprendre la tradition indienne. Nous séjournons plusieurs jours
+à l'école de yoga [KAIVALIADHAMA](https://kdham.com/) et à
+l'[ashram de Swami Ramdas](http://www.anandashram.org/).
+
 En parallèle je reçois les enseignements réguliers de :
 
 * Robert Dumel [A l'école de yoga](http://www.yogalyon.fr/index.html) qui
@@ -102,12 +108,7 @@ qui mèle Hatha-Yoga et [mantra](https://fr.wikipedia.org/wiki/Mantra) enjoués
 * [Michel Alibert](http://www.ify.fr/devenir-enseignant/nos-formateurs/michel-alibert-2/)
 qui réactualise l'enseignement millénaire du
 [Yoga-sûtra de Patañjali](https://fr.wikipedia.org/wiki/Yoga-s%C3%BBtra)
-
-En 2018 un voyage en Inde du sud de 4 semaines encadré par
-[Jacques Vignes](http://www.jacquesvigne.com/) et Robert Dumel,
-me permet de mieux comprendre la tradition indienne. Nous séjournons plusieurs jours
-à l'école de yoga [KAIVALIADHAMA](https://kdham.com/) et à
-l'[ashram de Swami Ramdas](http://www.anandashram.org/).
+* [Le groupe de méditation Tergar de Lyon - La communauté de méditation de Yongey Mingyour Rinpoché](https://francais.tergar.org/lyon-groupe-de-meditation/)
 
 Mes professeurs ont induits en moi la volonté d'enseigner un yoga holistique
 que l'on pourrait arbitrairement classer en trois branches :
