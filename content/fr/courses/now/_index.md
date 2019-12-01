@@ -5,7 +5,7 @@ summary: Maintenant, l'instant présent
 weight: 1
 
 # Page metadata.
-title: Maintenant
+title: Maintenant, l'instant présent
 date: "2019-09-13T00:00:00Z"
 lastmod: "2019-09-27T00:00:00Z"
 draft: false  # Is this a draft? true/false

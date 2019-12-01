@@ -101,7 +101,7 @@ En parallèle je reçois les enseignements réguliers de :
 * Robert Dumel [A l'école de yoga](http://www.yogalyon.fr/index.html) qui
 prodigue un Hatha-Yoga traditionnel dans le contexte tantrique
 * Andi Guerrero [Yoga Iyengar Lyon](http://yoga-iyengar-lyon.blogspot.com/) qui
-reproduit srupuleusement
+reproduit scrupuleusement
 [la méthode IYENGAR](https://www.afyi.fr/La-methode-IYENGAR-R.html)
 * [Jeannot Margier](http://www.jeannot-yoga.fr/biographie-jeannot-margier.html)
 qui mèle Hatha-Yoga et [mantra](https://fr.wikipedia.org/wiki/Mantra) enjoués

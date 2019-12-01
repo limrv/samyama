@@ -5,7 +5,7 @@ summary: L'attention focalisée et l'attention ouverte
 weight: 1
 
 # Page metadata.
-title: Attention
+title: L'attention
 date: "2019-10-01T00:00:00Z"
 lastmod: "2019-10-01T00:00:00Z"
 draft: false  # Is this a draft? true/false
