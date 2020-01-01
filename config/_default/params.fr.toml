@@ -136,9 +136,10 @@ date_format = "Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "3:04 PM"
 
-# List delimiter (separates parts of an address)
-# Popular separators are ", " (comma), "<br>" (new line), " " (space)
-list_delimiter = ", "
+# Address format (choose from the [address_formats] list below or add you own to the list).
+address_format = "fr-fr"
+[address_formats]
+  fr-fr = {order = ['street', 'postcode', 'city'], delimiters = [', ', ', ', '']}
 
 ############################
 ## Advanced
