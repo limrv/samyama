@@ -18,7 +18,8 @@ autolink = true
 email_form = 0
 
 [design.background]
-  image = "virabhadrasana.jpg"  # Name of image in `static/img/`.
+  image = "Matsyasana-mains.jpg"  # Name of image in `static/img/`.
+  image_size = "contain" #image_size can be set to cover (default), contain, or actual size
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 +++
 
