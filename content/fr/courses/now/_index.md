@@ -24,10 +24,10 @@ menu:
 * maintenant
 du latin _manu tenendo_ (gérondif de _manu tenere_, v. maintenir),
 "pendant que l'on tient quelque chose dans sa main".
-C'est interessant comme en français, on utilise pour désigner l'instant présent
+C'est intéressant comme en français, on utilise pour désigner l'instant présent
 la sensation corporelle de tenir dans sa main quelque chose
 * instant
-très pêtit espace de temps, du latin _instans_
+très petit espace de temps, du latin _instans_
 ("imminent, prochain, voisin, menaçant, pressant"),
 * présent
 qui est, qui se trouve actuellement dans le lieu dont on parle,

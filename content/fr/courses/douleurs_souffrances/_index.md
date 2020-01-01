@@ -26,11 +26,11 @@ menu:
 > Nous voici face à un grand paradoxe de la méditation, non pas éviter
 > ou supprimer la souffrance, mais l'accueillir et l'observer d'abord;
 > observer avec précision comment elle s'exprime dans notre corps,
-> observer les sensations et les pensées et implusions qu'elle fait
+> observer les sensations et les pensées et impulsions qu'elle fait
 > naitre en nous. On pourrait se dire "Plus on fait attention à ce qui
 > ne va pas, plus on y pense, non ?".
 > Oui et non ! Tout dépend de la manière dont on fait attention à nos
-> souffrances. Précisons d'ailleurs que la distration peut être parfois
+> souffrances. Précisons d'ailleurs que la distraction peut être parfois
 > utile, penser à autre chose ou s'efforcer d'agir, quand les
 > souffrances ne sont pas trop importantes, ou pourront disparaitre
 > spontanément avec le temps, pourquoi pas ? Mais si cela ne marche pas

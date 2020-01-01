@@ -45,7 +45,7 @@ Et _ca_ le mental _manas_ gagne l'aptitude _yogyatā_ aux concentrations _dhāra
 
 * III.1 _deśabandhaḥ cittasya dhāraṇā_
 
-L'attention facalisée _dharana_ est la fixation _bandha_ du mental _citta_
+L'attention focalisée _dharana_ est la fixation _bandha_ du mental _citta_
 à un champ d'observation déterminé _deśa_
 
 ## Deux exercices de méditation

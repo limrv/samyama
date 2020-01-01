@@ -44,6 +44,7 @@ menu:
 * II.46 _sthirasukham āsanam_
 
 Asana : être fermement établi dans un espace heureux.
+La posture est un état ferme et confortable.
 
 * II.47 _prayatna śaithilya ananta-samāpattibhyām_
 

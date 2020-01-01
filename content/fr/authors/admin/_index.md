@@ -65,9 +65,9 @@ email: "herve.gaucher@samyama.fr"
 #- Researchers
 #- Visitors
 ---
-J'ai rencontré le yoga et la méditation en 2011. Ces pratiques minucieuses et
+J'ai rencontré le yoga et la méditation en 2011. Ces pratiques minutieuses et
 profondes m'ont permis de reconnaitre les interactions du corps et de l'esprit
-et ont fait émergé un nouveau sens à la vie.
+et ont fait émerger un nouveau sens à la vie.
 
 Mes premiers professeurs de yoga sont issus de
 l'[Institut Français de Yoga](http://www.ify.fr/) :
@@ -125,4 +125,4 @@ enseignements de
 - Un yoga "méditatif" revisitant la Pleine présence à la lumière du
 [Yoga-sûtra de Patañjali](https://fr.wikipedia.org/wiki/Yoga-s%C3%BBtra)
 
-En 2019, je commence à enseigner le yoga dans l'aglomération lyonnaise.
+En 2019, je commence à enseigner le yoga dans l'agglomération lyonnaise.
