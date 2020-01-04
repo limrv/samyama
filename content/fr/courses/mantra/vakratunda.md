@@ -16,32 +16,32 @@ weight: 1
 
 ## Salutation au seigneur Ganesh
 
-> _oṃ </br>
-> vakra tunda mahā kāya </br>
-> sūrya koti samaprabha </br>
-> nirvighnam kuru me deva </br>
+> _oṃ
+> vakra tunda mahā kāya
+> sūrya koti samaprabha
+> nirvighnam kuru me deva
 > sarva kāryesu sarvadā_
 
-[Vakratunda Mahakaya](https://www.youtube.com/watch?v=M3Ocg4QFJXo)
+[vakratunda mahakaya (audio)](https://www.youtube.com/watch?v=M3Ocg4QFJXo)
 
-* Oh! Ganesha à tête d'éléphant
-* Tu resplendis de milles soleils !
-* Éloigne pour toujours, tous les obstacles
-* qui pourraient entraver la réalisation de mes bonnes actions
+> Oh! Ganesha à tête d'éléphant.
+> Tu resplendis de milles soleils !
+> Éloigne pour toujours, tous les obstacles
+> qui pourraient entraver la réalisation de mes bonnes actions.
 
-* vakra tunda = tronc tordu
-* mahā kāya = forme énorme
-* sūrya = soleil
-* koti = milliard
-* sama =  égal
-* prabha = splendeur
-* nirvighnam = sans obstacle
-* kuru me = donne moi
-* sarva = tous
-* kāryesu = efforts
-* sarvada = toujours
+* *vakra tunda* = tronc tordu
+* *mahā kāya* = forme énorme
+* *sūrya* = soleil
+* *koti* = milliard
+* *sama* =  égal
+* *prabha* = splendeur
+* *nirvighnam* = sans obstacle
+* *kuru me* = donne moi
+* *sarva* = tous
+* *kāryesu* = efforts
+* *sarvada* = toujours
 
-## Ganesh
+## Ganesh, le dieu qui supprime tous les obstacles
 
 [Ganesh](https://fr.wikipedia.org/wiki/Ganesh)
 Dans l’hindouisme, Gaṇesh, Gaṇesha, Vinâyaka, Gaṇapati
