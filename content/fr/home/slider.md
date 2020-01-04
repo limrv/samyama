@@ -16,11 +16,12 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "dhāraṇā"
+  title = "*dhāraṇā* (Y.S. III.1)"
   content = '''
-Y.S. III.1 _deśabandhaḥ cittasya dhāraṇā_.
-La concentration est la capacité de l'esprit de se relier à un champ d'observation.
-Dharana est la relation d'attention du mental à un secteur déterminé.
+_deśabandhaḥ cittasya dhāraṇā_.
+La concentration (*dhāraṇā*) [c'est pour] le mental (*cittasya*) se relier
+(*bandha*) à un secteur (*deśa*) [déterminé].
+
 '''
   align = "left"  # Choose `center`, `left`, or `right`.
 
@@ -39,11 +40,11 @@ Dharana est la relation d'attention du mental à un secteur déterminé.
   # cta_icon = "graduation-cap"
 
 [[item]]
-  title = "dhyāṇā"
+  title = "*dhyāṇā* (Y.S. III.2)"
   content = '''
-Y.S. III.2 *tatra pratyaya eka-tānatā dhyānam*.
-Dhyânâ c'est approfondir l'attention donnée à ce champ.
-C'est la méditation lorsqu'il y a résonnance prolongée là, uniquement dans ce contenu mental.
+*tatra pratyaya eka-tānatā dhyānam*.
+A partir de là (*tatra*), advient la méditation (*dhyāna*), qui est la résonance
+(*tānatā*) du seul (*eka*) contenu affectif et mental (*pratyaya*).
 '''
   align = "left"
 
@@ -52,29 +53,44 @@ C'est la méditation lorsqu'il y a résonnance prolongée là, uniquement dans c
   overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "samādhi"
-  align = "left"
+  title = "*samādhi* (Y.S. III.3)"
   content = '''
-Y.S. III.3 *tad eva artha-mātra-nirbhāsaṃ sva-rūpa-śūnyam iva samādhiḥ*.
-Quand la conscience est en relation avec cela même qui n'a pas de forme, c'est le samâdhi.
-Le samâdhi est cela précisément : l'objet seul resplendit est comme vidé de sa forme propre.
+*tad eva artha-mātra-nirbhāsaṃ sva-rūpa-śūnyam iva samādhiḥ*.
+La "contemplation" (*samādhi*) est seulement cela (*tad eva*) le
+resplendissement (*nirbhāsaṃ*) de l'objet utile (*artha)* uniquement (*mātra*)
+comme si (*iva*) [*citta*] était vide (*śūnya*) de forme propre (*sva-rūpa*)
 '''
 
+  align = "left"
   overlay_color = "#0051b3"  # An HTML color value.
   overlay_img = "samadhi.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.6  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "samyama"
+  title = "*saṃyama* (Y.S. III.4)"
   content = '''
-Y.S. III.4 *trayamḥ ekatra saṃyamaḥ*.
-L'accomplissement des trois (dhârana, dhyâna, samâdhi) est le samyama.
-La méditation aboutie c'est conjuguer les trois.
+ *trayamḥ ekatra saṃyamaḥ*.
+Les trois (*trayam*) en un (*eka*) sont l'attention intégrale (*saṃyama*).
 '''
 
   align = "left"
 
   overlay_color = "#0051b3"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = "*samyama* (Y.S. III.16)"
+  content = '''
+ *pariṇāma-traya-samyamāt atītānagata jñānam*.
+Grâce à l'attention intégrale (*samyama*) sur les trois (*traya*) [types de]
+transformation (*pariṇāma*), il y a connaissance (*jñānam*) du passé (*atīta*)
+ et du futur (*ānagata*).
+'''
+
+  align = "left"
+
+  overlay_color = "#b30800"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
