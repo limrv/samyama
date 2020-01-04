@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Samyama - Méditer la voie du yoga "
+title = "Samyama - Méditer la voie du yoga"
 summary = "Méditer la voie du yoga"
 
 # The URL of your site.
