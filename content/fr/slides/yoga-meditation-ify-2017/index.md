@@ -24,6 +24,11 @@ slides:
 # Qu'est que le yoga ? Ça ?
 
 ---
+{{< slide background-image="/img/zz3.jpg" background-size="900px" >}}
+
+## Qu'est que la méditation ? Ça ?
+
+---
 
 {{< slide background-image="/img/mathieu_ricard_meditation.jpg" background-size="1200px">}}
 
