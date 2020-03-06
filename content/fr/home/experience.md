@@ -19,6 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Professeur de yoga"
+  company = "Cours particulier"
+  company_url = "https://www.prioritealapersonne.fr/"
+  location = "Lyon 1"
+  date_start = "2020-02-01"
+  date_end = ""
+  description = """Cours particulier"""
+
+[[experience]]
+  title = "Professeur de yoga"
   company = "DOMPLUS Groupe"
   company_url = "https://www.prioritealapersonne.fr/"
   location = "Lyon 3"
@@ -50,7 +59,7 @@ date_format = "Jan 2006"
   company_url = "http://www.epyoga.org/"
   location = "Lyon 1"
   date_start = "2019-10-01"
-  date_end = "2019-11-05"
+  date_end = ""
   description = """Yoga méditatif"""
 
 +++
