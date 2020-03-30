@@ -1,6 +1,6 @@
 ---
-title: Yoga et action - Cours
-linktitle: Yoga et action - Cours
+title: "L'enchainement de l'action - Cours"
+linktitle: "Karma-yoga - Cours"
 toc: true
 type: docs
 date: "2020-03-01T00:00:00Z"
@@ -14,5 +14,5 @@ menu:
 weight: 1
 ---
 
-![Yoga et action - mars 2020](/img/yoga-et-action-2020-03.jpg)
+![L'enchainement - mars 2020](/img/karma-yoga-2020-03.jpg)
 
