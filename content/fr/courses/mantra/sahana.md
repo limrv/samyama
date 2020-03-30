@@ -15,29 +15,29 @@ weight: 1
 ---
 ## Chant principal
 
-> _oṃ </br>
-> saha nā vavatu </br>
-> saha nau bhunaktu  </br>
-> saha vīrryam karavāvahai </br>
-> tejasvi nāvadhītamastu </br>
-> mā vidvisāvavahai </br>
+> _oṃ ||
+> saha nā vavatu ||
+> saha nau bhunaktu  ||
+> saha vīrryam karavāvahai ||
+> tejasvi nāvadhītamastu ||
+> mā vidvisāvavahai ||
 > oṃ śāntiḥ śāntiḥ śāntiḥ_
 
-* Puisse-t-il nous protéger nous tous || Que nous soyons protégé
-* Puisse-t-il nous accepter et nous protéger tous || Que nous soyons nourris
-* Puissions-nous travailler ensemble avec vigueur || Que nous fassions ensemble un vigoureux effort
-* Puissions-nous faire briller notre connaissance || Puisse notre étude être brillante
-* Ne laisse pas la discorde parmi nous || Puissions nous ne pas nous quereller
-* oṃ, paix, paix, paix - invocation à la paix
+* Que nous soyons protégé
+* Que nous soyons nourris
+* Que nous fassions ensemble un effort vigoureux
+* Puisse notre étude être brillante
+* Puissions nous ne pas nous quereller
+* Oui nous aspirons à la paix
 
-[Om Sahana Vavatu | Shanti Mantra](https://www.youtube.com/watch?v=K3N0A9nDn-I)
+[Om Sahana Vavatu (audio)](https://www.youtube.com/watch?v=K3N0A9nDn-I)
 
 ## Chant secondaire
 
-> _brahmavidāpnōti param </br>
-> tadēṣā bhyuktā </br>
-> satyaṅ jñānamantaṅ brahma </br>
-> yō vēda nihitaṅ guhāyāṅ paramē vyōman </br>
+> _brahmavidāpnōti param ||
+> tadēṣā bhyuktā ||
+> satyaṅ jñānamantaṅ brahma ||
+> yō vēda nihitaṅ guhāyāṅ paramē vyōman ||
 > sō śnutē sarvān kāmān_
 
 * Celui qui connait le brahman obtient le suprême
