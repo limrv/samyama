@@ -14,5 +14,6 @@ menu:
 weight: 1
 ---
 
-![L'enchainement - mars 2020](/img/karma-yoga-2020-03.jpg)
+![karma-yoga - mars 2020](/img/karma-yoga-2020-03.jpg)
 
+{{< video library="1" src="karma-yoga-2020-03.mp4" controls="yes" >}}
