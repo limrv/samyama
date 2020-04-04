@@ -31,11 +31,6 @@ la joie altruiste (_mudita_), l'équanimité (_upekśaṇāṃ_) avec pour objet
 (_viṣayāṇāṃ_) le bonheur (_sukha_), la souffrance (_duḥkha_),
 la justesse (_puṇya_) ou l'erreur (_āpuṇya_).
 
-> La sérénité provient de l'attitude mentale d'amitié face au bonheur d'autrui,
-> de compassion devant le malheur, de joie face à la vertu, de neutralité
-> vis-à-vis de l'erreur
-> -- <cite> Bernard Bouanchaud </cite>
-
 > Le yogin doit créer en lui la bienveillance à l'égard de tous les êtres
 > vivants qui sont arrivés à l'état de jouissance d'un plaisir, la compassion
 > à l'égard de ceux qui souffrent, la joie à l'égard de ceux dont la nature
@@ -44,6 +39,31 @@ la justesse (_puṇya_) ou l'erreur (_āpuṇya_).
 > limpide. Et grâce à cette vertu, son psychisme est rasséréné. Rasséréné,
 > fixé sur un seul objet, il obtient une position stable
 > -- <cite> Vyâsa </cite>
+
+> La sérénité provient de l'attitude mentale d'amitié face au bonheur d'autrui,
+> de compassion devant le malheur, de joie face à la vertu, de neutralité
+> vis-à-vis de l'erreur
+> -- <cite> Bernard Bouanchaud </cite>
+
+> L'amitié, la compassion, la gaité, la neutralité clarifient et apaisent
+> le mental ; ce comportement doit s'exercer indifféremment dans le bonheur et
+> le malheur, vis-à-vis de ce qui nous fait du bien comme vis-à-vis de ce qui
+> nous  fait du mal
+> -- <cite> Françoise Mazet </cite>
+
+Indifféremment dans le bonheur et le malheur, dans un environnement
+bienfaisant, comme dans un environnement hostile.
+Il est aisé de se sentir amical, compréhensif et gai fâce à une personnalité
+que l'on apprécie, à des idées ou à un comportement avec lesquels on se sent
+en accord.
+Cela devient très difficile si on se sent agressé, agacé et que l'on ne comprend
+pas la démarche ou la situation.
+C'est facile d'être ouvert quant on est heureux mais on a tendance à se fermer
+dès qu'on est mal.
+L'équanimité est recommandée pour garder son calme. Il va de soi que neutralité
+ne signifie nullement abandon des responsabilités.
+Agir, nous rapelle Patanjali, en accord avec la conscience profonde et non-agir,
+emporté par les modifications de la conscience périphérique.
 
 ## Les quatres incommensurables
 
@@ -61,7 +81,7 @@ de leur efficacité. Ils sont :
 * _Karuṇā_ (sa. et pa.), la compassion,
 « souhait que les êtres soient libérés de la souffrance et des causes de la
 souffrance » ;
-* _Muditā_ (sa. et pa.), la joie sympathisante ou l'altruiste,
+* _Muditā_ (sa. et pa.), la joie sympathisante ou joie altruiste,
 « souhait que les êtres trouvent la joie exempte de souffrance » ;
 * _Upekṣā_ (sa.) ou Upekkhā (pa.), l'équanimité ou le détachement,
 « souhait que les êtres demeurent égaux et en paix quels que soient les
