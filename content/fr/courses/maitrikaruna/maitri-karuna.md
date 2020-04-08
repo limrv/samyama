@@ -12,3 +12,5 @@ menu:
 ---
 
 ![maitri-karuna-mudita-upeksha - avril 2020](/img/maitri-karuna-mudita-upeksha.jpg)
+
+{{< video library="1" src="maitri-karuna-mudita-upeksha.mp4" controls="yes" >}}
