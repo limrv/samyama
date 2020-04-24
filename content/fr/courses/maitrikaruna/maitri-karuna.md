@@ -1,6 +1,6 @@
 ---
-title: "Bienveillance, compassion, joie et équanimité - Cours"
-linktitle: "Maitri, karuna, mudita, upeksha - Cours"
+title: "Bienveillance, compassion, joie et équanimité - Cours 1"
+linktitle: "Maitri, karuna, mudita, upeksha - Cours 1"
 toc: true
 type: docs
 date: "2020-04-04T00:00:00Z"
