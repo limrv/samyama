@@ -98,3 +98,46 @@ C'est pourquoi on les dit apramana, incommensurable ou illimité.
 Ces quatre incommensurables affaiblissent grandement l'attachement au petit moi
 enfermé sur lui-même et ouvre la conscience au monde dans son immensité ainsi
 qu'aux autres dans leur infinité.
+
+## La pratique de la bienveillance, compassion, ... dans le Yoga-sutra
+
+### Ce qui introduit le I.33
+
+* I.30 _vyādhi styāna saṃśaya pramāda alasya avirati bhrāntidarśana
+alabdhabhūmikatva anavasthitatvāni cittavikśepāh te antarāyāḥ_
+
+Les sources de distrations (_viksepa_) du mental (_citta_) sont :
+la maladie (_vyādhi_), l'intolérance (_styāna_), le doute (_samsaya_),
+la précipitation (_pramada_), l'abattement (_ālasya_), l'intempérance (_avirati_),
+le point de vue (_darsana_) éronné (_bhrānti_),
+le fait (_tva_) de n'avoir pas atteint (_alabdha_) la condition désirée (_bhūmika_),
+le fait (_tva_) de ne pas s'y maintenir (_anavasthita_) ;
+voilà (_te_) les obstacles (_antarāyā_)
+
+* I.31 _duḥkha daurmanasya aṅgamejayatva śvāsapraśvāsh vikśepasahabhuvaḥ_
+
+Les symptomes (_bhuva_) accompagnant (_saha_)
+les distractions mentales (_viksepa_) sont : la souffrance (_duḥkha_),
+la malveillance (_daurmanasya_), le tremblement du corps (_angamejayatva_),
+l'expiration et l'inspiration (difficiles) (_svāsaprasvāsa_)
+
+* I.32 _tad pratiṣedhārtham ekatattvābhyāsaḥ_
+
+Afin (_ārtham_) d'écarter (_pratiṣedha_) cela (_tad_, les obstacles),
+se recueillir (_abhyāsaḥ_) en vue d'un seul (_eka_) principe (_tatva_)
+
+### Les 7 _ekatatva_, 7 supports de méditations distincts
+
+* I.33 La bienveillance (_maitrī_), la compassion (_karuṇā_),
+la joie (_mudita_), l'équanimité (_upekśaṇāṃ_) ...
+* I.34 L'expiration (_pracchardana_) et la rétention (_vidhāraṇābhyāṃ_)
+du souffle (_prāṇasya_)
+* I.35 Le développement (_pravṛtti_) de la maitrise (_vat_)
+sensorielle (_viṣaya_)
+* I.36 La lumière (_jyotiṣmatī_) qui guerrit (_viśoka_)
+* I.37 Un objet (_viṣaya_) libre (_vīta_) de passion (_rāga_)
+* I.38 La connaissance (_jñāna_) du sommeil (_nidrā_) et des rêves (_svapna_)
+* I.39 La méditation (_dhyānā_) selon (_yathā_) ce qui est agréable (_abhimata_)
+
+
+
