@@ -65,7 +65,7 @@ ne signifie nullement abandon des responsabilités.
 Agir, nous rapelle Patanjali, en accord avec la conscience profonde et non-agir,
 emporté par les modifications de la conscience périphérique.
 
-## Les quatres incommensurables
+## Les quatre incommensurables
 
 [Les quatre incommensurables (wikipedia)](https://fr.wikipedia.org/wiki/Quatre_Incommensurables)
 
