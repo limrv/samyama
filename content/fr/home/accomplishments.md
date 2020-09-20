@@ -19,13 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "MBSR Lyon"
-  organization_url = "https://mbsrlyon.fr/"
-  title = "Le programme Mindfullness Based Stress Reduction"
-  url = "https://mbsrlyon.fr/formations/programme-mbsr/"
+  organization = "R.V.H.Y."
+  organization_url = "https://www.ify.fr/"
+  title = "Enseignement du yoga sur chaise pour changer le regard sur la vieillesse et le handicap"
+  url = "https://yogasurchaise-rvhy.fr/"
   certificate_url = ""
-  date_start = "2015-03-01"
-  date_end = "2015-05-01"
+  date_start = "2020-08-16"
+  date_end = "2020-08-21"
   description = ""
 
 [[item]]
@@ -36,6 +36,16 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2016-08-01"
   date_end = "2019-06-01"
+  description = ""
+
+[[item]]
+  organization = "MBSR Lyon"
+  organization_url = "https://mbsrlyon.fr/"
+  title = "Le programme Mindfullness Based Stress Reduction"
+  url = "https://mbsrlyon.fr/formations/programme-mbsr/"
+  certificate_url = ""
+  date_start = "2015-03-01"
+  date_end = "2015-05-01"
   description = ""
 
 +++

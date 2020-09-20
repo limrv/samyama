@@ -88,26 +88,26 @@ vers un processus de transmission.
 
 De 2016 à 2019, je suis la formation de professeur de yoga proposé par l'IFY.
 Ce cursus de 500h répartie sur 4 ans est dirigé par Béatrice Viard
-[Etude et pratique du yoga](http://epyoga.org/spip.php?page=cours-yoga-lyon&id_rubrique=8).
+[Etude et pratique du yoga](http://epyoga.org/spip.php?page=cours-yoga-lyon&id_rubrique=8). Le sujet de mon mémoire est Yoga et cancer.
 
 En 2018 un voyage en Inde du sud de 4 semaines encadré par
-[Jacques Vignes](http://www.jacquesvigne.com/) et Robert Dumel,
+[Jacques Vignes](http://www.jacquesvigne.com/) et Robert Dumel [A l'école de yoga](http://www.yogalyon.fr/index.html)
 me permet de mieux comprendre la tradition indienne. Nous séjournons plusieurs jours
 à l'école de yoga [KAIVALIADHAMA](https://kdham.com/) et à
 l'[ashram de Swami Ramdas](http://www.anandashram.org/).
 
+En 2020, je suis 2 formations complémentaires et effectue une retraite de méditation :
+* Yoga sur chaise délivré par l'[Association R.V.H.Y.](https://yogasurchaise-rvhy.fr/) et sous la direction de Jeannot Margier.
+* [Yoga de la relaxation profonde, de l'art du souffle et de la méditation](http://www.yogalyon.fr/relaxation-respiration-meditation.html) sous la direction de Robert Dumel
+* Séminaire retraite [Stabiliser l’esprit et s’ouvrir à la connaissance intuitive](https://www.association-mindfulness.org/news.php?idnews=220) sous la direction de Bob Stahl et de l'[ADM](https://www.association-mindfulness.org/index.php)
+
 En parallèle je reçois les enseignements réguliers de :
 
-* Robert Dumel [A l'école de yoga](http://www.yogalyon.fr/index.html) qui
-prodigue un Hatha-Yoga traditionnel dans le contexte tantrique
 * Andi Guerrero [Yoga Iyengar Lyon](http://yoga-iyengar-lyon.blogspot.com/) qui
 reproduit scrupuleusement
 [la méthode IYENGAR](https://www.afyi.fr/La-methode-IYENGAR-R.html)
 * [Jeannot Margier](http://www.jeannot-yoga.fr/biographie-jeannot-margier.html)
 qui mèle Hatha-Yoga et [mantra](https://fr.wikipedia.org/wiki/Mantra) enjoués
-* [Michel Alibert](http://www.ify.fr/devenir-enseignant/nos-formateurs/michel-alibert-2/)
-qui réactualise l'enseignement millénaire du
-[Yoga-sûtra de Patañjali](https://fr.wikipedia.org/wiki/Yoga-s%C3%BBtra)
 * [Le groupe de méditation Tergar de Lyon - La communauté de méditation de Yongey Mingyour Rinpoché](https://francais.tergar.org/lyon-groupe-de-meditation/)
 
 Mes professeurs ont induits en moi la volonté d'enseigner un yoga holistique
@@ -125,4 +125,4 @@ enseignements de
 - Un yoga "méditatif" revisitant la Pleine présence à la lumière du
 [Yoga-sûtra de Patañjali](https://fr.wikipedia.org/wiki/Yoga-s%C3%BBtra)
 
-En 2019, je commence à enseigner le yoga dans l'agglomération lyonnaise.
+J'enseigne le yoga en cours collectif et individuel dans l'agglomération lyonnaise.

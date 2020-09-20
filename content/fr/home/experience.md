@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.prioritealapersonne.fr/"
   location = "Lyon 1"
   date_start = "2020-02-01"
-  date_end = ""
+  date_end = "2020-03-31"
   description = """Cours particulier"""
 
 [[experience]]
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   location = "Lyon 3"
   date_start = "2019-06-21"
   date_end = ""
-  description = """Yoga pour tous et yoga méditatif"""
+  description = """Yoga méditatif"""
 
 [[experience]]
   title = "Professeur de yoga"
@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   company_url = "https://www.centre-social-mav.fr"
   location = "Vénissieux"
   date_start = "2019-09-18"
-  date_end = ""
+  date_end = "2020-06-30"
   description = """Yoga pour tous"""
 
 [[experience]]
@@ -59,7 +59,25 @@ date_format = "Jan 2006"
   company_url = "http://www.epyoga.org/"
   location = "Lyon 1"
   date_start = "2019-10-01"
-  date_end = ""
+  date_end = "2020-06-20"
   description = """Yoga méditatif"""
+
+[[experience]]
+  title = "Professeur de yoga"
+  company = "Amicale Laîque de Bron"
+  company_url = "https://albron.fr/"
+  location = "Bron école Alsace lorraine"
+  date_start = "2019-09-09"
+  date_end = ""
+  description = """Yoga pour tous"""
+
+[[experience]]
+  title = "Professeur de yoga"
+  company = "Gymnastique Volontaire"
+  company_url = "http://gvbron.com/"
+  location = "Bron école Alsace lorraine"
+  date_start = "2019-09-16"
+  date_end = ""
+  description = """Yoga pour tous"""
 
 +++
